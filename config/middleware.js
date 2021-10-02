@@ -10,7 +10,7 @@ module.exports = {
     },
     cors: {
       enabled: true,
-      origin: ["https://pinmymap.netlify.app", "http://localhost:3000"],
+      origin: ["http://localhost:3000"],
     },
   },
 };
