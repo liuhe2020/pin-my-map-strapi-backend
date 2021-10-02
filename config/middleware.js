@@ -10,7 +10,11 @@ module.exports = {
     },
     cors: {
       enabled: true,
-      origin: ["http://localhost:3000"],
+      origin: [
+        "http://localhost:3000",
+        "https://pin-my-map-backend.herokuapp.com",
+        "pinmymap.netlify.app",
+      ],
     },
   },
 };
