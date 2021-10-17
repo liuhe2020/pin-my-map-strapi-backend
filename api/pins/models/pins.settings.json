@@ -2,7 +2,8 @@
   "kind": "collectionType",
   "collectionName": "pins",
   "info": {
-    "name": "pins"
+    "name": "pins",
+    "description": ""
   },
   "options": {
     "increments": true,
@@ -15,10 +16,10 @@
       "type": "string"
     },
     "latitude": {
-      "type": "decimal"
+      "type": "float"
     },
     "longitude": {
-      "type": "decimal"
+      "type": "float"
     },
     "description": {
       "type": "richtext"
