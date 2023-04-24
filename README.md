@@ -1,6 +1,6 @@
-# Pin My Map
+# Pin My Map - backend
 
-![pin my map](public/img/pin_my_map.jpg)
+![pin my map](pin_my_map.jpg)
 
 Pin My Map offers users the ability to record places they have visited using the Mapbox API. Users can pin locations on the world map, add notes and photos, as well as share their personalised map page on social networks. It is built using React with Material UI and Styled Components, and powered by a Strapi back-end coupled with a PostgreSQL database.
 
